@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack & Machine Learning**
 
-- 📫 How to reach me **shresthas04.ms@gmail.com**
+- 📫 How to reach me **shresthasriv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
