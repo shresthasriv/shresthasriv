@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **shresthasriv@gmail.com**
 
