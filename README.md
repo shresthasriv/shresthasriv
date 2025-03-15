@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I am Shrestha Srivastava<br><br>I'm a full stack developer who can also code a little bit AI/ML.
 
+Check out https://shresthasriv.me
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shresthasriv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrestha-sriv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Zaddy_Shres) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shresthasriv@gmail.com) 
