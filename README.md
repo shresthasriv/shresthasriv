@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Shrestha Srivastava<br><br>I'm a full stack developer who can also code a little bit AI/ML.
+Hi, I am Shrestha Srivastava<br><br>I'm a full stack developer who can build AI Agents
 
 Check out https://shresthasriv.me
 
