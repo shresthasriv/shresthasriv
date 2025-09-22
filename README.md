@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hey, I am Shrestha<br><br>I code for a living, mainly in Full Stack, Backend and AI
+Hey, I am Shrestha<br><br>I code, mainly in Full Stack, Backend and AI
 
-checkout: shresthasriv.me
+checkout: https://shresthasriv.me
 
 
 ## 🌐 Socials:
