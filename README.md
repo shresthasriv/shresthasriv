@@ -2,7 +2,7 @@
 Hey, I am Shrestha<br><br>I code, mainly in Full Stack, Backend and AI
 
 checkout: https://shresthasriv.me
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shresthasriv&label=Profile%20views&color=0e75b6&style=flat" alt="shresthasriv" /> </p>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=shresthasriv)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrestha-sriv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shresthasriv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shresthasriv@gmail.com) 
