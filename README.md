@@ -1,4 +1,7 @@
+<img width="1500" height="500" alt="Aesthetic Twitter Header (1)" src="https://github.com/user-attachments/assets/e2288a2c-c3c8-42c5-97dc-8ec8b1dcf96f" />
+
 # 💫 About Me:
+
 Hey, I am Shrestha<br><br>I code, mainly in Full Stack, Backend and AI
 
 checkout: https://shresthasriv.me
